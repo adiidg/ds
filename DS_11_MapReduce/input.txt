@@ -1,0 +1,5 @@
+ERROR System crash at 04:00
+INFO User logged in
+WARNING Disk space low
+ERROR Memory overflow
+INFO User logged out
